@@ -1,4 +1,4 @@
-//Lyle Henderson
+//Lyle Henderson and Ben McDaniel
 import java.util.*;
 public class UnderdarkTravel {
     public static void main (String [] args) {
